@@ -1,6 +1,6 @@
 
 
-const API_URL = `http://${window.location.hostname || 'localhost'}:4000/api`;
+const API_URL = `https://lms-project-backend-izbk.onrender.com/api`;
 
 /**
  * Generic API fetch wrapper to handle JSON and credentials.
